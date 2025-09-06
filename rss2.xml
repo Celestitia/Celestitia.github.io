@@ -9,8 +9,25 @@
     <atom:link href="https://celestitia.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>是的我看见到处是阳光</description>
-    <pubDate>Sat, 06 Sep 2025 06:15:30 GMT</pubDate>
+    <pubDate>Sat, 06 Sep 2025 13:48:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test1</title>
+      <link>https://celestitia.github.io/2025/09/06/test/</link>
+      <guid>https://celestitia.github.io/2025/09/06/test/</guid>
+      <pubDate>Sat, 06 Sep 2025 13:47:45 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="https://Celestitia.github.io/categories/test/">test</category>
+      
+      
+      
+      <comments>https://celestitia.github.io/2025/09/06/test/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
