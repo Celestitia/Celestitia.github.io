@@ -9,8 +9,27 @@
     <atom:link href="https://ceres-illusion.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>今天有什么新东西？</description>
-    <pubDate>Sun, 07 Sep 2025 09:13:32 GMT</pubDate>
+    <pubDate>Sun, 07 Sep 2025 12:07:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>1</title>
+      <link>https://ceres-illusion.top/2025/09/07/1/</link>
+      <guid>https://ceres-illusion.top/2025/09/07/1/</guid>
+      <pubDate>Sun, 07 Sep 2025 12:07:35 GMT</pubDate>
+      
+      <description>&lt;p&gt;摘要&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>摘要</p><span id="more"></span><h3 id="3级标题"><a href="#3级标题" class="headerlink" title="3级标题"></a>3级标题</h3><ul><li>分点<br><img src="/example.png" alt="注释" title="注意拓展名"></li></ul>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://ceres-illusion.top/2025/09/07/1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>开发进程</title>
