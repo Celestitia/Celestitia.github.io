@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2025/09/08/test/"/>
+      <url>/2025/09/08/test/</url>
+      
+        <content type="html"><![CDATA[<p>摘要</p><span id="more"></span><h3 id="3级标题"><a href="#3级标题" class="headerlink" title="3级标题"></a>3级标题</h3><ul><li>分点<br><img src="/example.png" alt="注释" title="注意拓展名"></li></ul><!-- flag of hidden posts -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试用页面</title>
       <link href="/2025/09/07/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
       <url>/2025/09/07/%E6%B5%8B%E8%AF%95%E7%94%A8/</url>
