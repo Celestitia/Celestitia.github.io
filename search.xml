@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>1</title>
-      <link href="/2025/09/07/1/"/>
-      <url>/2025/09/07/1/</url>
+      <title>测试用页面</title>
+      <link href="/2025/09/07/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
+      <url>/2025/09/07/%E6%B5%8B%E8%AF%95%E7%94%A8/</url>
       
-        <content type="html"><![CDATA[<p>摘要</p><span id="more"></span><h3 id="3级标题"><a href="#3级标题" class="headerlink" title="3级标题"></a>3级标题</h3><ul><li>分点<br><img src="/example.png" alt="注释" title="注意拓展名"></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>这只是个测试功能用的页面，也没有什么意义吧？</p><span id="more"></span><p>你来的真早！<br>该页面的内容将在2^32秒后更新。<br>See you later!</p>]]></content>
       
       
       
